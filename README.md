@@ -25,6 +25,7 @@ else{
     System.out.println("Low Energy Generation");
     
 }}}
+
 # 2c)
 
 import java.util.Scanner;
